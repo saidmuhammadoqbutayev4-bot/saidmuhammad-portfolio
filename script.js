@@ -1,0 +1,1 @@
+document.querySelectorAll('a').forEach(link=>{link.addEventListener('click',e=>{console.log('Portfolio navigation')})});
